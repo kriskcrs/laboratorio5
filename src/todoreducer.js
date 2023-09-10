@@ -1,11 +1,4 @@
-/* 
-    todo: {
-        id: 212310301231,
-        description: "Aprender Php"
-        done: 
-    }
 
-*/
 
 export const todoReducer = (initialState, action) => {
 	switch (action.type) {
